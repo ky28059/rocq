@@ -8,6 +8,7 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
 open Genredexpr
 
 let union_consts l1 l2 = Util.List.union (=) l1 l2 (* FIXME *)

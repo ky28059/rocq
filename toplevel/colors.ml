@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 type color = [`ON | `AUTO | `EMACS | `OFF]
 
 let init_color opts =

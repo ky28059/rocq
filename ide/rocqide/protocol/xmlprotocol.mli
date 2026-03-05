@@ -10,6 +10,7 @@
 
 (** * Applicative part of the interface of RocqIDE calls to Rocq *)
 
+open Rocqutils
 open Interface
 open Xml_datatype
 

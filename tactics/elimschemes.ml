@@ -15,6 +15,7 @@
 
 (* This file builds schemes related to case analysis and recursion schemes *)
 
+open Rocqutils
 open Names
 open Indrec
 open Declarations

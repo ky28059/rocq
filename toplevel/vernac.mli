@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 type time_output
 
 val make_time_output : Coqargs.time_config -> time_output

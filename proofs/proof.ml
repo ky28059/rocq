@@ -29,6 +29,7 @@
      [give_up] was run and solve the goal there.
 *)
 
+open Rocqutils
 open Util
 
 module FocusKind = Dyn.Make()

@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (** Generic arguments used by the extension mechanisms of several Rocq ASTs. *)
 
 (** Generic arguments must be registered according to their usage:

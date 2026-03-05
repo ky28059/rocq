@@ -9,6 +9,7 @@
 (************************************************************************)
 
 (*i*)
+open Rocqutils
 open Names
 open Context
 open CErrors

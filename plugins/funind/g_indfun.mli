@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 val wit_fun_ind_using :
   (Constrexpr.constr_expr Tactypes.with_bindings option,
    Genintern.glob_constr_and_expr Tactypes.with_bindings option,

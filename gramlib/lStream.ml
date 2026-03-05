@@ -10,6 +10,8 @@
 
 (** Streams equipped with a (non-canonical) location function *)
 
+open Rocqutils
+
 type ('e,'a) t = {
   strm : ('e,'a) Stream.t;
   (* Give the loc of i-th element (counting from 1) and the empty initial interval if 0 *)

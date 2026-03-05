@@ -59,6 +59,7 @@
    etc.
 *)
 
+open Rocqutils
 open Util
 open Names
 open Declarations

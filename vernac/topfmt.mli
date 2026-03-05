@@ -10,6 +10,8 @@
 
 (** Console printing options *)
 
+open Rocqutils
+
 type pp_global_params = {
   margin : int;
   max_indent : int;

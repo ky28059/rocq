@@ -12,6 +12,8 @@
     objects and their subcomponents. *)
 
 (** The default pretty-printers produce pretty-printing commands ({!Pp.t}). *)
+
+open Rocqutils
 open Libnames
 open Constrexpr
 open Names

@@ -28,6 +28,7 @@
     - a {e local definition}.
 *)
 
+open Rocqutils
 open Util
 open Names
 

@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (** Printers for the OCaml toplevel. *)
 
 val pp : Pp.t -> unit

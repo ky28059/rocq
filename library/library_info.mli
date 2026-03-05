@@ -10,6 +10,7 @@
 
 (* This handles attributes associated to a library file *)
 
+open Rocqutils
 open Names
 
 type t = UserWarn.t

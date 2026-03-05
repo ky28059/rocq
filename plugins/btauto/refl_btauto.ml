@@ -8,6 +8,7 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
 open Constr
 
 let bt_lib_constr n = lazy (UnivGen.constr_of_monomorphic_global (Global.env ()) @@ Rocqlib.lib_ref n)

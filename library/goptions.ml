@@ -10,6 +10,7 @@
 
 (* This module manages customization parameters at the vernacular level     *)
 
+open Rocqutils
 open Util
 open Summary.Stage
 

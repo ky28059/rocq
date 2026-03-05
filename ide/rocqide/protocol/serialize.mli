@@ -8,6 +8,7 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
 open Xml_datatype
 
 exception Marshal_error of string * xml

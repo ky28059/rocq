@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 let ( / ) s1 s2 = Filename.concat s1 s2
 
 (* Loading of the resource file.

@@ -20,6 +20,7 @@
 (* Miscellaneous features or improvements by Hugo Herbelin,
    Élie Soubiran, ... *)
 
+open Rocqutils
 open Pp
 open Util
 

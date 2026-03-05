@@ -25,6 +25,7 @@
    Inductive Constructions (CIC) terms together with constructors,
    destructors, iterators and basic functions *)
 
+open Rocqutils
 open Util
 open Names
 open UVars

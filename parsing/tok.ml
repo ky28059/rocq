@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (** The type of token for the Rocq lexer and parser *)
 
 let string_equal (s1 : string) s2 = s1 = s2

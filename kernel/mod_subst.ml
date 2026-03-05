@@ -15,6 +15,7 @@
 (* This file provides types and functions for managing name
    substitution in module constructions *)
 
+open Rocqutils
 open Pp
 open Util
 open Names

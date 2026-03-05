@@ -11,6 +11,8 @@
 (** This file defines the datatypes used as internal states by the
     tactic monad, and specialises the [Logic_monad] to these type. *)
 
+open Rocqutils
+
 (** {6 Trees/forest for traces} *)
 
 module Trace = struct

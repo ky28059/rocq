@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (** The type of parsing attribute data *)
 type vernac_flag_type =
   | FlagQualid of Libnames.qualid

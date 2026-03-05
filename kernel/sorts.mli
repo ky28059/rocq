@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (** {6 The sorts of CCI. } *)
 
 module QGlobal :

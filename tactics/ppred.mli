@@ -1,3 +1,4 @@
+open Rocqutils
 open Genredexpr
 
 val pr_with_occurrences :

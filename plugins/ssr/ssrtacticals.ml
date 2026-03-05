@@ -10,6 +10,7 @@
 
 (* This file is (C) Copyright 2006-2015 Microsoft Corporation and Inria. *)
 
+open Rocqutils
 open Names
 open Constr
 open Context

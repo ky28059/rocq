@@ -12,6 +12,7 @@
 
 {
 
+open Rocqutils
 open Names
 open Locus
 open Constrexpr

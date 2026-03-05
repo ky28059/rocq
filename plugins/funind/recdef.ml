@@ -9,6 +9,7 @@
 (************************************************************************)
 
 module CVars = Vars
+open Rocqutils
 open Constr
 open Context
 open EConstr

@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (** This module implements pretty-printers for vernac_expr syntactic
     objects and their subcomponents. *)
 

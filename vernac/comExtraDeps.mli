@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 val declare_extra_dep :
   ?loc:Loc.t -> from:Names.DirPath.t -> file:string -> Names.Id.t option -> unit
 

@@ -9,6 +9,7 @@
 (************************************************************************)
 
 (* Recursive polynomials: R[x1]...[xn]. *)
+open Rocqutils
 open Util
 open Utile
 

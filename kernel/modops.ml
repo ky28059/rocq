@@ -17,6 +17,7 @@
 
 (* This file provides with various operations on modules and module types *)
 
+open Rocqutils
 open Util
 open Names
 open Constr

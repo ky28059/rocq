@@ -12,6 +12,7 @@
 (* Downey, Sethi and Tarjan. *)
 (* Plus some e-matching and constructor handling by P. Corbineau *)
 
+open Rocqutils
 open CErrors
 open Pp
 open Names

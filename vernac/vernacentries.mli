@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 val check_may_eval :
   Environ.env ->
   Evd.evar_map ->

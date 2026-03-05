@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 val genarg_of_unit : unit -> Genarg.rlevel Genarg.generic_argument
 
 val genarg_of_int : int -> Genarg.rlevel Genarg.generic_argument

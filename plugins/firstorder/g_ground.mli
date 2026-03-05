@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 val wit_firstorder_using :
   (Libnames.qualid list, Names.GlobRef.t Loc.located Locus.or_var list,
    Names.GlobRef.t list)

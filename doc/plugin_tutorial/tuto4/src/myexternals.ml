@@ -1,3 +1,5 @@
+open Rocqutils
+
 open Names
 (* kernel names, ie ModPath, KerName, Id etc *)
 

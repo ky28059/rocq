@@ -8,6 +8,7 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
 open Pp
 
 let stm_pr_err s  = Format.eprintf "%s] %s\n%!"     (Spawned.process_id ()) s

@@ -15,6 +15,7 @@
     and a logical layer which handles backtracking, proof
     manipulation, and any other effect which needs to backtrack. *)
 
+open Rocqutils
 
 (** {6 Exceptions} *)
 

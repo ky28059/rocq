@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (** Ltac debugger interface; clients should register hooks to interact
    with their provided interface. *)
 module Action = struct

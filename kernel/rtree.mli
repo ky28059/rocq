@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (** Type of regular tree with nodes labelled by values of type 'a
    The implementation uses de Bruijn indices, so binding capture
    is avoided by the lift operator (see example below).

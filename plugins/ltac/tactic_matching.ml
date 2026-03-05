@@ -11,6 +11,7 @@
 (** This file extends Matching with the main logic for Ltac's
     (lazy)match and (lazy)match goal. *)
 
+open Rocqutils
 open Names
 open Context
 open Tacexpr

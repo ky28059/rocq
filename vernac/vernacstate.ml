@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 module Synterp = struct
 
   type t = Lib.Synterp.frozen * Summary.Synterp.frozen

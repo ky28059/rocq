@@ -10,6 +10,7 @@
 
 (** Intermediate language used by both the VM and native. *)
 
+open Rocqutils
 open Names
 open Constr
 

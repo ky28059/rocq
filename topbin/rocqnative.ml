@@ -1,4 +1,5 @@
 (* Rocq native compiler *)
+open Rocqutils
 open CErrors
 open Util
 open Names

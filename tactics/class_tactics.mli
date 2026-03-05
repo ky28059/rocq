@@ -10,6 +10,7 @@
 
 (** This files implements typeclasses eauto *)
 
+open Rocqutils
 open Names
 open EConstr
 open Hints

@@ -14,6 +14,7 @@
 (* This file provides support for registering inductive scheme builders,
    declaring schemes and generating schemes on demand *)
 
+open Rocqutils
 open Names
 open Nameops
 open Declarations

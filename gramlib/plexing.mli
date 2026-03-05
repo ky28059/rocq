@@ -8,6 +8,8 @@
    grammars (see module [Grammar]). It also provides some useful functions
    to create lexers. *)
 
+open Rocqutils
+
 (** Lexer type *)
 
 module type S = sig

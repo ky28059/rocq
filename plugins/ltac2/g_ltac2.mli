@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 val test_lpar_idnum_coloneq : unit Procq.Entry.t
 
 val test_lpar_id_colon : unit Procq.Entry.t

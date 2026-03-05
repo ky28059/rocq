@@ -27,6 +27,8 @@
    context (the part of the document out of focus) is restored.
 *)
 
+open Rocqutils
+
 exception Empty
 
 type 'a document

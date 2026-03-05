@@ -11,6 +11,7 @@
 (** Tactic-related types that are not totally Ltac specific and still used in
     lower API. *)
 
+open Rocqutils
 open Names
 
 (** {6 Introduction patterns. } *)

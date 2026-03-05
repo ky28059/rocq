@@ -3,6 +3,7 @@
 [@@@ocaml.deprecated "(9.0) Use Rocqlib"]
 include module type of struct include Rocqlib end
 
+open Rocqutils
 open Names
 open Util
 

@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 type tac_option_locality
 
 val tac_option_locality : tac_option_locality Attributes.attribute

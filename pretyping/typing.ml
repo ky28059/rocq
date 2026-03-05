@@ -10,6 +10,7 @@
 
 module CVars = Vars
 
+open Rocqutils
 open CErrors
 open Util
 open Constr

@@ -16,6 +16,7 @@
 (* This file provides entry points for manually or automatically
    declaring new schemes *)
 
+open Rocqutils
 open Pp
 open Names
 open Util

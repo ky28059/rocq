@@ -8,7 +8,9 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
-type form=
+open Rocqutils
+
+type form =
     Atom of int
   | Arrow of form * form
   | Bot

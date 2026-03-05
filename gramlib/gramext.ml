@@ -2,6 +2,8 @@
 (* gramext.ml,v *)
 (* Copyright (c) INRIA 2007-2017 *)
 
+open Rocqutils
+
 type position =
   | First
   | Last

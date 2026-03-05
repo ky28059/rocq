@@ -10,6 +10,7 @@
 
 module StdList = List
 
+open Rocqutils
 open Util
 open Names
 open Pp

@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (** GC tweaking *)
 
 (** Rocq is a heavy user of persistent data structures and symbolic ASTs, so the

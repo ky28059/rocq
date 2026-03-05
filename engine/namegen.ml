@@ -14,6 +14,7 @@
 (* This file is about generating new or fresh names and dealing with
    alpha-renaming *)
 
+open Rocqutils
 open Util
 open Names
 open Sorts

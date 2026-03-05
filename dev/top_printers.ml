@@ -10,6 +10,7 @@
 
 (* Printers for the ocaml toplevel. *)
 
+open Rocqutils
 open Sorts
 open Util
 open Pp

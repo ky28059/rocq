@@ -16,6 +16,7 @@
 (* Initial author: Arnaud Spiwack
    Module-traversing code: Pierre Letouzey *)
 
+open Rocqutils
 open Util
 open Names
 open Declarations

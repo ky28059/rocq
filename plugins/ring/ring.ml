@@ -9,6 +9,7 @@
 (************************************************************************)
 
 module CVars = Vars
+open Rocqutils
 open Ltac_plugin
 open Pp
 open Util

@@ -12,6 +12,7 @@ DECLARE PLUGIN "rocq-runtime.plugins.ltac2_ltac1"
 
 {
 
+open Rocqutils
 open Procq.Prim
 open Ltac2_plugin
 open Tac2expr

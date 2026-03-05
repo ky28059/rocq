@@ -17,6 +17,7 @@
 (* Equal inductive types by Jacek Chrzaszcz as part of the module
    system, Aug 2002 *)
 
+open Rocqutils
 open CErrors
 open Util
 open Names

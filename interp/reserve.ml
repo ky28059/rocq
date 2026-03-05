@@ -10,6 +10,7 @@
 
 (* Reserved names *)
 
+open Rocqutils
 open CErrors
 open Util
 open Pp

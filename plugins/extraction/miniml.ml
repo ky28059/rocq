@@ -10,6 +10,7 @@
 
 (*s Target language for extraction: a core ML called MiniML. *)
 
+open Rocqutils
 open Names
 
 module InfvInst =

@@ -21,6 +21,7 @@
     - KerName.t are absolute names of objects in Rocq.
 *)
 
+open Rocqutils
 open Util
 
 (** {6 Identifiers } *)

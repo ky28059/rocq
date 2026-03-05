@@ -12,6 +12,7 @@
    machine, Oct 2004 *)
 (* Extension: Arnaud Spiwack (support for native arithmetic), May 2005 *)
 
+open Rocqutils
 open Util
 open Names
 open Vmvalues

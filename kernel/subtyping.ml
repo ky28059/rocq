@@ -14,6 +14,7 @@
 (* This module checks subtyping of module types *)
 
 (*i*)
+open Rocqutils
 open Names
 open UVars
 open Util

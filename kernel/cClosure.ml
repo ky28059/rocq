@@ -23,6 +23,7 @@
 
 [@@@ocaml.warning "+4"]
 
+open Rocqutils
 open CErrors
 open Util
 open Names

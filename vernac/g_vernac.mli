@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 val query_command :
   (Goal_select.t option -> Vernacexpr.synpure_vernac_expr) Procq.Entry.t
 

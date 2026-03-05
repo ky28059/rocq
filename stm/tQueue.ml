@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 module PriorityQueue : sig
   type 'a t
   val create : unit -> 'a t

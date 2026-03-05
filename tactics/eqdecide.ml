@@ -14,6 +14,7 @@
 (*                           by Eduardo Gimenez                        *)
 (************************************************************************)
 
+open Rocqutils
 open Util
 open Names
 open Namegen

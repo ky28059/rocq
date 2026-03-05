@@ -10,6 +10,7 @@
 
 (** Basic generic arguments. *)
 
+open Rocqutils
 open Loc
 open Names
 open EConstr

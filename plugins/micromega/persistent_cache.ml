@@ -14,6 +14,8 @@
 (*                                                                      *)
 (************************************************************************)
 
+open Rocqutils
+
 (** Last PR that requires the regeneration of caches.
     It is stored and checked after the Rocq magic number.
     Incompatible caches are thrown away.

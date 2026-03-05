@@ -9,6 +9,7 @@
 (************************************************************************)
 
 (*i*)
+open Rocqutils
 open Names
 open Globnames
 open Constr
@@ -16,7 +17,6 @@ open Context
 open Environ
 open Util
 open Libobject
-
 (*i*)
 
 module GlobRefMap = Environ.QGlobRef.Map

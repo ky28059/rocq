@@ -11,6 +11,7 @@
 (* Note: don't forget to update v_primitive in checker/values.ml if the *)
 (* number of primitives is changed. *)
 
+open Rocqutils
 open Univ
 open UVars
 

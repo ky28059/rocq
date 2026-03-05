@@ -23,6 +23,8 @@
     interpretation as number. So, one has to record the form of the
     number which exactly matches the notation. *)
 
+open Rocqutils
+
 type sign = SPlus | SMinus
 
 type num_class = CDec | CHex

@@ -10,6 +10,8 @@
 
 (** Extending streams with a (non-canonical) location function *)
 
+open Rocqutils
+
 type ('e,'a) t
 val from : ?loc:Loc.t -> ('e -> ('a * Loc.t) option) -> ('e,'a) t
 

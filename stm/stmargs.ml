@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 let fatal_error exn =
   Topfmt.(in_phase ~phase:ParsingCommandLine print_err_exn exn);
   let exit_code = CErrors.exit_code exn in

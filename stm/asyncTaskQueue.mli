@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (* Default flags for workers *)
 val async_proofs_flags_for_workers : string list ref
 

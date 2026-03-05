@@ -12,6 +12,7 @@
    by Lionel Elie Mamane <lionel@mamane.lu> on May-June 2006 for
    implementation of abstraction of pretty-printing of objects. *)
 
+open Rocqutils
 open Pp
 open CErrors
 open Util

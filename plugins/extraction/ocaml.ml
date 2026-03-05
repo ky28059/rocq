@@ -10,6 +10,7 @@
 
 (*s Production of Ocaml syntax. *)
 
+open Rocqutils
 open Pp
 open CErrors
 open Util

@@ -37,6 +37,7 @@ for strikeout is not commonly supported (it didn't work on my system).  RocqIDE
 uses strikeout on removed text.
 *)
 
+open Rocqutils
 open Pp_diff
 
 let term_color = ref true

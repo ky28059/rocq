@@ -4,6 +4,7 @@ DECLARE PLUGIN "rocq-plugin-tutorial.plugin"
 
 {
 
+open Rocqutils
 open Pp
 open Ltac_plugin
 

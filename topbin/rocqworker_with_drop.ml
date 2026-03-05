@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (* We register this handler for lower-level toplevel loading code *)
 let () = CErrors.register_handler (function
     | Symtable.Error e ->

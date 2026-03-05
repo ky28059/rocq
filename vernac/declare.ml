@@ -10,6 +10,7 @@
 
 (** This module is about the low-level declaration of logical objects *)
 
+open Rocqutils
 open Pp
 open Util
 open Names

@@ -17,6 +17,7 @@
 (* Revisions by Bruno Barras, Hugo Herbelin, Pierre Letouzey, Matthieu
    Sozeau, Pierre-Marie Pédrot *)
 
+open Rocqutils
 open Pp
 open Util
 

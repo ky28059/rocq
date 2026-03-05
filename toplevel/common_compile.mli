@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (* [fatal_error msg] prints msg and exits 1 *)
 val fatal_error : Pp.t -> 'a
 

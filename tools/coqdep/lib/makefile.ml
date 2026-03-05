@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (* Makefile's escaping rules are awful: $ is escaped by doubling and
    other special characters are escaped by backslash prefixing while
    backslashes themselves must be escaped only if part of a sequence

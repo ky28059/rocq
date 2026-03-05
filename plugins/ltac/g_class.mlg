@@ -10,6 +10,7 @@
 
 {
 
+open Rocqutils
 open Class_tactics
 open Stdarg
 open Classes

@@ -8,6 +8,7 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
 open Names
 
 type resolved_scheme = Names.Id.t CAst.t * Indrec.dep_flag * Names.inductive * UnivGen.QualityOrSet.t

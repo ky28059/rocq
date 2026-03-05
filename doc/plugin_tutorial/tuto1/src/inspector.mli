@@ -1,3 +1,5 @@
+open Rocqutils
+
 (*
  * Inspect an input and print a feedback message explaining what it is
  *)

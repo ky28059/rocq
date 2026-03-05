@@ -8,6 +8,7 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
 open Context.Named.Declaration
 open Vernacentries.DefAttributes
 open Constrexpr

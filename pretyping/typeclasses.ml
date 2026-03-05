@@ -9,12 +9,12 @@
 (************************************************************************)
 
 (*i*)
+open Rocqutils
 open Names
 open Constr
 open Evd
 open Util
 open Typeclasses_errors
-
 (*i*)
 
 (* Core typeclasses hints *)

@@ -9,6 +9,7 @@
 (************************************************************************)
 
 (*i*)
+open Rocqutils
 open CErrors
 open Util
 open Pp
@@ -23,7 +24,6 @@ open Glob_ops
 open NumTok
 open Notationextern
 open PrimNotations
-
 (*i*)
 
 let notation_cat = Libobject.create_category "notations"

@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (** {5 Toplevel management} *)
 
 (** Coq plugins are identified by their OCaml library name (in the

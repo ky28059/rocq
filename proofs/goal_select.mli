@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (* spiwack: I'm choosing, for now, to have [goal_selector] be a
    different type than [goal_reference] mostly because if it makes sense
    to print a goal that is out of focus (or already solved) it doesn't

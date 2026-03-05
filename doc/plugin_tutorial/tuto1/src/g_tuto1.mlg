@@ -10,6 +10,7 @@ DECLARE PLUGIN "rocq-plugin-tutorial.tuto1"
   theories/Loader.v
 *)
 open Ltac_plugin
+open Rocqutils
 open Pp
 (* This module defines the types of arguments to be used in the
    EXTEND directives below, for example the string one. *)

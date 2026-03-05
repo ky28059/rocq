@@ -11,6 +11,7 @@
 (** This file defines clausenv, which is a deprecated way to handle open terms
     in the proof engine. This API is legacy. *)
 
+open Rocqutils
 open Constr
 open Environ
 open Evd

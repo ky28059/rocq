@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (** When one registers a keyword she can declare it starts a quotation.
   In particular using QUOTATION("name:") in a grammar rule
   declares "name:" as a keyword and the token QUOTATION is

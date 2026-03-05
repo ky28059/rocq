@@ -22,7 +22,7 @@
 (* Structural maintainer: Hugo Herbelin *)
 (* Secondary maintenance: collective *)
 
-
+open Rocqutils
 open Pp
 open CErrors
 open Util

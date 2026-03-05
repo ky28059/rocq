@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 module Stream = Gramlib.Stream
 
 (** We keep the string to preserve the user representation,

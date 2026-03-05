@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (** Regular intern using the filesystem  *)
 val fs_intern : Library.Intern.t
 

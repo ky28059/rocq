@@ -11,6 +11,7 @@
 (** This file defines the most important datatype of Rocq, namely kernel terms,
     as well as a handful of generic manipulation functions. *)
 
+open Rocqutils
 open Names
 
 (** {6 Simply type aliases } *)

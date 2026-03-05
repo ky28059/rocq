@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 let fatal_error fmt = Printf.kfprintf (fun _ -> exit 1) stderr (fmt^^"%!")
 
 let with_worker_gen opts ?(package="rocq-runtime") basename args =

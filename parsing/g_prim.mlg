@@ -12,6 +12,7 @@ DECLARE GLOBAL PLUGIN
 
 {
 
+open Rocqutils
 open Names
 open Libnames
 

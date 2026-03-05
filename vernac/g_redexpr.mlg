@@ -16,6 +16,7 @@ open Procq.Prim
 open Procq.Constr
 open Pvernac.Vernac_
 
+open Rocqutils
 open Util
 open Locus
 open Genredexpr

@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (* enable in case of stm problems  *)
 (* let stm_debug () = CDebug.(get_flag misc) *)
 let stm_debug = ref false

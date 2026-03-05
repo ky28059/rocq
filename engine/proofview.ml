@@ -15,6 +15,7 @@
     ['a tactic] is the (abstract) type of tactics modifying the proof
     state and returning a value of type ['a]. *)
 
+open Rocqutils
 open Pp
 open Util
 open Proofview_monad

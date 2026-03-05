@@ -11,6 +11,7 @@
 (* This handles attributes associated to a library file *)
 
 (*i*)
+open Rocqutils
 open Names
 (*i*)
 

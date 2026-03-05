@@ -10,6 +10,7 @@
 
 module CVars = Vars
 
+open Rocqutils
 open Pp
 open Util
 open Names

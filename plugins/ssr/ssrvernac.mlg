@@ -12,6 +12,7 @@
 
 {
 
+open Rocqutils
 open Names
 module CoqConstr = Constr
 open CoqConstr

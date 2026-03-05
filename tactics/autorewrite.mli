@@ -10,6 +10,7 @@
 
 (** This files implements the autorewrite tactic. *)
 
+open Rocqutils
 open Constr
 open Equality
 

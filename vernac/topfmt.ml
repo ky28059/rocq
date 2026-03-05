@@ -8,6 +8,7 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
 open Pp
 
 (** Pp control also belongs here as the terminal is private to the toplevel *)

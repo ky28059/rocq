@@ -10,6 +10,7 @@
 
 (** Keys for unification and indexing *)
 
+open Rocqutils
 open Names
 open Constr
 open Libobject

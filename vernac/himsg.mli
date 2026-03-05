@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (** This module provides functions to explain the type errors. *)
 
 (* Used by equations *)

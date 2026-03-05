@@ -1,5 +1,7 @@
 (* Printing *)
 
+open Rocqutils
+
 let pr x =
   if CDebug.(get_flag misc) then (Format.printf "@[%s@]" x; flush(stdout);)else ()
 

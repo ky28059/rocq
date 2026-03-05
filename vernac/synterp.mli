@@ -12,6 +12,7 @@
 commands. The main entry point is [synterp_control], which transforms a
 vernacexpr into a [vernac_control_entry]. *)
 
+open Rocqutils
 open Names
 open Libnames
 

@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 module Dyn = Dyn.Make ()
 
 type substitutivity = Dispose | Substitute | Keep | Escape | Anticipate

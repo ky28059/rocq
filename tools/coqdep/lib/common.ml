@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (** Rocq files specifies on the command line:
     - first string is the full filename, with only its extension removed
     - second string is the absolute version of the previous (via getcwd)

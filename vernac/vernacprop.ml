@@ -11,6 +11,7 @@
 (* We define some high-level properties of vernacular commands, used
    mainly by the UI components *)
 
+open Rocqutils
 open Vernacexpr
 
 let has_query_control { CAst.v } =

@@ -13,6 +13,7 @@
 {
 
 let defaultCast = Constr.DEFAULTcast
+open Rocqutils
 open Names
 open Pp
 open Procq

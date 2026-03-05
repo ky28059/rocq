@@ -10,6 +10,7 @@
 
 (* This file is the interface between the c-c algorithm and Rocq *)
 
+open Rocqutils
 open Names
 open Inductiveops
 open Declarations

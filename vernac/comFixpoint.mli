@@ -8,6 +8,7 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
 open Vernacexpr
 
 (** {6 Fixpoints and cofixpoints} *)

@@ -10,6 +10,7 @@
 
 (** Ltac parsing entries *)
 
+open Rocqutils
 open Procq
 open Libnames
 open Constrexpr

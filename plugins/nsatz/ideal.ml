@@ -17,6 +17,7 @@ a polynomial is a sorted list of (coefficient, monomial)
 
  *)
 
+open Rocqutils
 open Utile
 
 exception NotInIdeal

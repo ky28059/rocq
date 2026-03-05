@@ -19,6 +19,7 @@ let msg_format = ref (Richpp { width = 72; depth = max_int })
 
 (** * Interface of calls to Rocq by RocqIDE *)
 
+open Rocqutils
 open Util
 open Interface
 open Serialize

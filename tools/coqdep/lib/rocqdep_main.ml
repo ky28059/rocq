@@ -10,6 +10,8 @@
 
 (** The basic parts of coqdep are in [Common]. *)
 
+open Rocqutils
+
 let warn_home_dir =
   let category = CWarnings.CoreCategories.filesystem in
   CWarnings.create ~name:"cannot-locate-home-dir" ~category Pp.str

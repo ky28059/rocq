@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 type t = {
   univ_poly : bool;
   collapse_sort_variables : bool;

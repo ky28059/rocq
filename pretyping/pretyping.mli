@@ -14,6 +14,7 @@
    into elementary ones, insertion of coercions and resolution of
    implicit arguments. *)
 
+open Rocqutils
 open Names
 open Environ
 open Evd

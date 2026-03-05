@@ -46,6 +46,7 @@
    natural expectation of the user.
 *)
 
+open Rocqutils
 open CErrors
 open Util
 open Names

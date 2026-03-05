@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 type compilation_mode = BuildVo | BuildVos | BuildVok
 
 type glob_output =

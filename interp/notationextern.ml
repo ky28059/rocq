@@ -12,6 +12,7 @@
     for notations *)
 
 (*i*)
+open Rocqutils
 open Util
 open Names
 open Globnames

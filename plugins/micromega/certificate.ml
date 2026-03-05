@@ -19,6 +19,7 @@
 
 let debug = false
 
+open Rocqutils
 open Polynomial
 module Mc = Micromega
 module Ml2C = Mutils.CamlToCoq

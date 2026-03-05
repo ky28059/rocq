@@ -24,6 +24,7 @@
 
 *)
 
+open Rocqutils
 
 (** An Xml node is either
         [Element (tag-name, attributes, children)] or [PCData text] *)

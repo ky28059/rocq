@@ -8,6 +8,7 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
 open Sorts
 
 (** {6 Graphs of quality elimination constraints. } *)

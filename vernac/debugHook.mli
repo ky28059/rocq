@@ -11,6 +11,8 @@
 (** Ltac debugger interface; clients should register hooks to interact
    with their provided interface. *)
 
+open Rocqutils
+
 (** The debugger receives requests by calling read_cmd to get Actions.
  Each Action may return one or more responses as Answers by calling submit_answer.
  Many of them return a single Answer or no Answer, but a single step may generate any

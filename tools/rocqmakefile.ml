@@ -10,6 +10,7 @@
 
 (* rocq makefile: automatically create a Makefile for a Rocq development *)
 
+open Rocqutils
 open CoqProject_file
 open Printf
 

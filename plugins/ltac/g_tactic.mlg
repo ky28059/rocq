@@ -12,6 +12,7 @@ DECLARE PLUGIN "rocq-runtime.plugins.ltac"
 
 {
 
+open Rocqutils
 open Pp
 open CErrors
 open Util

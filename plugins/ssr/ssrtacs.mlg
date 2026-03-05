@@ -13,6 +13,7 @@
 {
 
 let vmCast = Constr.VMcast
+open Rocqutils
 open Names
 open Pp
 open Procq

@@ -12,6 +12,7 @@
     Most of the API below is reexported in {!Evd}. Consider using higher-level
     primitives when needed. *)
 
+open Rocqutils
 open Names
 open Univ
 open Sorts

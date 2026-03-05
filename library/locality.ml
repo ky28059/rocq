@@ -10,6 +10,8 @@
 
 (** * Managing locality *)
 
+open Rocqutils
+
 type import_status = ImportDefaultBehavior | ImportNeedQualified
 type definition_scope = Discharge | Global of import_status
 

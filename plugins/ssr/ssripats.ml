@@ -10,6 +10,7 @@
 
 open Ssrmatching_plugin
 
+open Rocqutils
 open Util
 open Names
 open Constr

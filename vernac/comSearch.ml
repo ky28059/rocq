@@ -10,6 +10,7 @@
 
 (* Interpretation of search commands *)
 
+open Rocqutils
 open CErrors
 open Names
 open Util

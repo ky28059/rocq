@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (** Vernacular Extension data *)
 
 (* A vernac classifier provides information about the exectuion of a

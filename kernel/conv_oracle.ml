@@ -11,6 +11,7 @@
 (* Created by Bruno Barras as part of the rewriting of the conversion
    algorithm, Nov 2001 *)
 
+open Rocqutils
 open Names
 
 (* Priority for the expansion of constant in the conversion test.

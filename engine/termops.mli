@@ -11,6 +11,7 @@
 (** This file defines various utilities for term manipulation that are not
     needed in the kernel. *)
 
+open Rocqutils
 open Names
 open Constr
 open Environ

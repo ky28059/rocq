@@ -10,6 +10,7 @@
 
 (*s Production of Scheme syntax. *)
 
+open Rocqutils
 open Pp
 open CErrors
 open Util

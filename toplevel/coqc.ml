@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 let coqc_init ((_,color_mode),_) injections ~opts =
   Flags.quiet := true;
   System.trust_file_cache := true;

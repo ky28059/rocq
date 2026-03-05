@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 type 'e profile_state_gen = {
   events : 'e;
   sums : NewProfile.sums;

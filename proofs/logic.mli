@@ -10,6 +10,7 @@
 
 (** Legacy proof engine. Do not use in newly written code. *)
 
+open Rocqutils
 open Names
 open Evd
 

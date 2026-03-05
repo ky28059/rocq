@@ -14,6 +14,7 @@
 (* This module provides the main functions for type-checking module
    declarations *)
 
+open Rocqutils
 open Util
 open Names
 open Declarations

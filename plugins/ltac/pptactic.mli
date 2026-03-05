@@ -11,6 +11,7 @@
 (** This module implements pretty-printers for ltac_expr syntactic
     objects and their subcomponents. *)
 
+open Rocqutils
 open Genarg
 open Geninterp
 open Names

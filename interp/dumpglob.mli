@@ -24,6 +24,8 @@
 
 *)
 
+open Rocqutils
+
 (** {2 The [.glob] file format}
 
    [.glob] files contain a header, and then a list of entries, with

@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (* This file implements proof block detection for:
    - blocks delimited by { and }
    - bullets with indentation

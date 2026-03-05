@@ -15,6 +15,7 @@
 (* This module implements kernel-level discharching of local
    declarations over global constants and inductive types *)
 
+open Rocqutils
 open Util
 open Names
 open Term

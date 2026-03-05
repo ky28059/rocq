@@ -10,6 +10,7 @@
 
 (** {6 [Mod_subst] } *)
 
+open Rocqutils
 open Names
 open Constr
 

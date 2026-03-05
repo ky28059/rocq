@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (** The Rocq toplevel loop. *)
 
 (** A buffer for the character read from a channel. We store the command

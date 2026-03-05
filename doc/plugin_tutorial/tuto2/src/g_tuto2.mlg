@@ -61,6 +61,8 @@ DECLARE PLUGIN "rocq-plugin-tutorial.tuto2"
 {
   (*** Dependencies from Coq ***)
 
+  open Rocqutils
+
   (*
    * This lets us take non-terminal arguments to a command (for example,
    * the PassInt command that takes an integer argument needs this

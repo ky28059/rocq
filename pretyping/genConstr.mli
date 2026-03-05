@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (** Tags for extensible terms. The [raw] type is contained in
     constrexpr, and the [glb] type in glob terms. *)
 type ('raw, 'glb) tag

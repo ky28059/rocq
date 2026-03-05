@@ -10,6 +10,8 @@
 
 (** Explicit substitutions *)
 
+open Rocqutils
+
 (** {6 Explicit substitutions } *)
 (** Explicit substitutions for some type of terms ['a].
 

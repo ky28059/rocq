@@ -10,6 +10,7 @@
 
 (** Ltac toplevel command entries. *)
 
+open Rocqutils
 open Vernacexpr
 open Tacexpr
 

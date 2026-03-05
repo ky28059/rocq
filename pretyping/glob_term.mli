@@ -16,6 +16,7 @@
    and notations are done, but coercions, inference of implicit
    arguments and pattern-matching compilation are not. *)
 
+open Rocqutils
 open Names
 
 type existential_name = Id.t

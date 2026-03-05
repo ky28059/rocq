@@ -11,6 +11,7 @@
 (* must be before open Libobject, otherwise Dyn is Libobject.Dyn *)
 module SynclassDyn = Dyn.Make()
 
+open Rocqutils
 open Pp
 open Util
 open CAst

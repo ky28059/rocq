@@ -8,6 +8,7 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
 
 (** A structure S is a non recursive inductive type with a single
    constructor *)

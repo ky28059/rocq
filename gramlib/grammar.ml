@@ -2,6 +2,7 @@
 (* grammar.ml,v *)
 (* Copyright (c) INRIA 2007-2017 *)
 
+open Rocqutils
 open Gramext
 open Format
 open Util

@@ -15,6 +15,7 @@
 (* This file registers properties of records: projections and
    canonical structures *)
 
+open Rocqutils
 open CErrors
 open Util
 open Pp

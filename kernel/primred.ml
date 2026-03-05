@@ -1,4 +1,5 @@
 (* Reduction of native operators *)
+open Rocqutils
 open Names
 open CPrimitives
 open Retroknowledge

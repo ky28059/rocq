@@ -11,6 +11,7 @@
 (* This file uses the (non-compressed) union-find structure to generate *)
 (* proof-trees that will be transformed into proof-terms in cctac.mlg   *)
 
+open Rocqutils
 open Ccalgo
 open Pp
 

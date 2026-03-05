@@ -10,6 +10,7 @@
 
 (*s This module declares the extraction commands. *)
 
+open Rocqutils
 open Names
 open Libnames
 

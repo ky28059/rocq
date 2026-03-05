@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 exception CannotParseFile of string * (int * int)
 exception CannotParseProjectFile of string * string
 

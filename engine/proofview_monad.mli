@@ -12,6 +12,8 @@
     tactic monad, and specialises the [Logic_monad] to these types. It should
     not be used directly. Consider using {!Proofview} instead. *)
 
+open Rocqutils
+
 (** {6 Traces} *)
 
 module Trace : sig

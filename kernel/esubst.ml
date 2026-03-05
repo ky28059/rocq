@@ -12,6 +12,7 @@
 
 (* Support for explicit substitutions *)
 
+open Rocqutils
 open Util
 
 (*********************)

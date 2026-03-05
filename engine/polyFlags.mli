@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 type t
 (** Set of flags for universe polymorphism, implicit sort polymorphism and cumulativity.
     Note that implicit sort polymorphism (not collapsing sort variables to Type) and

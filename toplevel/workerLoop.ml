@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 let worker_parse_extra opts extra_args =
   let stm_opts, extra_args = Stmargs.parse_args opts extra_args in
   ((),stm_opts), extra_args

@@ -31,6 +31,8 @@
      [give_up] was run and solve the goal there.
 *)
 
+open Rocqutils
+
 (* Type of a proof. *)
 type t
 

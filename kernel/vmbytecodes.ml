@@ -14,6 +14,7 @@
 
 (* This file defines the type of bytecode instructions *)
 
+open Rocqutils
 open Names
 open Vmvalues
 open Constr

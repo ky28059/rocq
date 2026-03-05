@@ -14,6 +14,7 @@
 (* This module provides the main entry points for type-checking basic
    declarations *)
 
+open Rocqutils
 open Util
 open Names
 open Constr

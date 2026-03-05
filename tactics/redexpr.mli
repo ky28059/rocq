@@ -10,6 +10,7 @@
 
 (** Interpretation layer of redexprs such as hnf, cbv, etc. *)
 
+open Rocqutils
 open Constr
 open EConstr
 open Pattern

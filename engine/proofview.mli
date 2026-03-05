@@ -14,6 +14,7 @@
     ['a tactic] is the (abstract) type of tactics modifying the proof
     state and returning a value of type ['a]. *)
 
+open Rocqutils
 open EConstr
 
 (** Main state of tactics *)

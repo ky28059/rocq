@@ -10,6 +10,7 @@
 
 (* (c) Copyright 2006-2015 Microsoft Corporation and Inria.                  *)
 
+open Rocqutils
 open Environ
 open Evd
 open Constr

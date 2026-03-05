@@ -9,6 +9,9 @@
 (************************************************************************)
 
 (************************************************************************)
+
+open Rocqutils
+
 (** {6 Tables of opaque proof terms} *)
 
 (** We now store opaque proof terms apart from the rest of the environment.

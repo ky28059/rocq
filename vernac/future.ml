@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 let not_ready_msg = ref (fun name ->
       Pp.strbrk("The value you are asking for ("^name^") is not ready yet. "^
                 "Please wait or pass "^

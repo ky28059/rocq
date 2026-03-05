@@ -45,6 +45,8 @@
    All options are synchronized with the document.
 *)
 
+open Rocqutils
+
 type option_name = string list
 
 type _ option_kind =

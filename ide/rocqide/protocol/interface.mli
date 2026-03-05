@@ -10,6 +10,8 @@
 
 (** * Declarative part of the interface of RocqIDE calls to Rocq *)
 
+open Rocqutils
+
 (** * Generic structures *)
 
 type raw = bool

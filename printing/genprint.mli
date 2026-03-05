@@ -10,6 +10,7 @@
 
 (** Entry point for generic printers *)
 
+open Rocqutils
 open Genarg
 
 type 'a with_level =

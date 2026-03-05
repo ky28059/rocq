@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 type 'a const_entry_body = 'a Entries.proof_output Future.computation
 
 val declare_defined_opaque : ?feedback_id:Stateid.t ->

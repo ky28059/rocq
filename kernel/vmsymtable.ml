@@ -14,6 +14,7 @@
 
 (* This file manages the table of global symbols for the bytecode machine *)
 
+open Rocqutils
 open Util
 open Names
 open Vmvalues

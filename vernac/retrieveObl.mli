@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 val check_evars : Environ.env -> Evd.evar_map -> unit
 
 type obligation_info =

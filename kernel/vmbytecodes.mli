@@ -10,6 +10,7 @@
 
 (* $Id$ *)
 
+open Rocqutils
 open Names
 open Vmvalues
 open Constr

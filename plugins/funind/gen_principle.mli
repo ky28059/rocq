@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 val warn_cannot_define_graph : ?loc:Loc.t -> Pp.t * Pp.t -> unit
 val warn_cannot_define_principle : ?loc:Loc.t -> Pp.t * Pp.t -> unit
 

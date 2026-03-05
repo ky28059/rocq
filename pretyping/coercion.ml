@@ -16,6 +16,7 @@
    Corbineau, Feb 2008 *)
 (* Turned into an abstract compilation unit by Matthieu Sozeau, March 2006 *)
 
+open Rocqutils
 open CErrors
 open Util
 open Names

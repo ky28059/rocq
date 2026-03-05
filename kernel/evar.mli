@@ -13,6 +13,8 @@
     to keep track of such casts, one has to use the provided {!unsafe_of_int}
     function. *)
 
+open Rocqutils
+
 type t
 (** Type of existential variables. *)
 

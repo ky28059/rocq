@@ -22,6 +22,8 @@
  * they will become invalid and accessing them raises a private exception.
  *)
 
+open Rocqutils
+
 (* Each computation has a unique id that is inherited by each offspring
  * computation (chain, split, map...).  Joined computations lose it.  *)
 module UUID : sig

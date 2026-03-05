@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 exception Empty
 
 let invalid_arg s = raise (Invalid_argument ("Document."^s))

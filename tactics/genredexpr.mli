@@ -10,6 +10,8 @@
 
 (** Reduction expressions *)
 
+open Rocqutils
+
 (** The parsing produces initially a list of [red_atom] *)
 
 type 'a red_atom =

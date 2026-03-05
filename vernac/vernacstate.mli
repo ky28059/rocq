@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (** Synterp State, includes parser state, etc... ; as of today the
     parsing state has no functional components. *)
 module Synterp : sig

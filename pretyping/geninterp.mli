@@ -11,6 +11,7 @@
 (** Interpretation functions for generic arguments and interpreted Ltac
     values. *)
 
+open Rocqutils
 open Genarg
 
 (** {6 Dynamic toplevel values} *)

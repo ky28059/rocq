@@ -10,6 +10,7 @@
 
 (* Concrete syntax of the mathematical vernacular MV V2.6 *)
 
+open Rocqutils
 open Pp
 open CErrors
 open CAst

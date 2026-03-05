@@ -14,6 +14,7 @@
 (* This file provides high-level name globalization functions *)
 
 (* *)
+open Rocqutils
 open Pp
 open CErrors
 open Libnames

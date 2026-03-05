@@ -9,6 +9,7 @@
 (************************************************************************)
 
 (*i*)
+open Rocqutils
 open Names
 open EConstr
 open Ind_tables

@@ -10,6 +10,8 @@
 
 (** This module offers semi-structured pretty-printing. *)
 
+open Rocqutils
+
 (** Each annotation of the semi-structured document refers to the
     substring it annotates. *)
 type 'annotation located = {

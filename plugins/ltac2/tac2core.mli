@@ -8,6 +8,7 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
 open Names
 
 val throw : ?info:Exninfo.info -> exn -> 'a Proofview.tactic
