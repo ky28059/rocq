@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 type goals =
 | NoGoals
 | FocusGoals of { fg : Interface.goal list; bg : Interface.goal list }

@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (** A session is a script buffer + proof + messages,
     interacting with a rocqtop, and a few other elements around *)
 

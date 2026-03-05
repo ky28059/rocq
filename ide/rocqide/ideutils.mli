@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 val warn_image : unit -> GMisc.image
 val warning : string -> unit
 

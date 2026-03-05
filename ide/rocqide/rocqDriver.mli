@@ -10,6 +10,8 @@
 
 (** Rocq : Interaction with the Rocq toplevel *)
 
+open Rocqutils
+
 (** {5 General structures} *)
 
 type rocqtop

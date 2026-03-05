@@ -10,6 +10,7 @@
 
 {
 
+  open Rocqutils
   open Lexing
   open Format
 

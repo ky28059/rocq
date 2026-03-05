@@ -8,5 +8,7 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 val print_file : string -> string list Util.String.Map.t -> unit
 val load_file : string -> string list Util.String.Map.t

@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 (** Some excerpts of Util and similar files to avoid depending on them
     and hence on Compat and Camlp5 *)
 

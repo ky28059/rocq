@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 let rec print_list print fmt = function
   | [] -> ()
   | [x] -> print fmt x

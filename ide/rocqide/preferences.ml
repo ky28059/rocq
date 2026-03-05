@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 let lang_manager = GSourceView3.source_language_manager ~default:true
 let () = lang_manager#set_search_path
   ((Minilib.rocqide_data_dirs ())@lang_manager#search_path)

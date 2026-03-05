@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 val lang_manager : GSourceView3.source_language_manager
 val style_manager : GSourceView3.source_style_scheme_manager
 

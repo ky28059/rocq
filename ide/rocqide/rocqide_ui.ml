@@ -1,3 +1,5 @@
+open Rocqutils
+
 let ui_m = GAction.ui_manager ();;
 
 let no_under = Util.String.map (fun x -> if x = '_' then '-' else x)

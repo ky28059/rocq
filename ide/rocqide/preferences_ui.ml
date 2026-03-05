@@ -10,6 +10,7 @@
 
 (* This module was initially based on the small configwin library (package lablgtk3-extras). *)
 
+open Rocqutils
 open Preferences
 
 (** Types and functions to generate a dialog with tabs organized in a tree *)

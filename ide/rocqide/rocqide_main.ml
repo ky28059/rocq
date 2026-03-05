@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 let _ = Rocqide.set_signal_handlers ()
 
 (* We handle Gtk warning messages ourselves :

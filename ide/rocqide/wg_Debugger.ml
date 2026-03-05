@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqutils
+
 type stack_t = (string * (string * int list) option) list
 type vars_t = (string * Pp.t) list
 

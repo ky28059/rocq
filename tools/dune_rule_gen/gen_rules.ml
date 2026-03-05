@@ -1,4 +1,5 @@
 open! Coq_dune
+open Rocqutils
 
 (* Coqnative overhead is more than 33% in build time :( :( *)
 
