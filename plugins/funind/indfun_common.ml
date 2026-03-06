@@ -1,4 +1,5 @@
 open Rocqutils
+open Rocqpretyping
 open Names
 open Pp
 open Constr

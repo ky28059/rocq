@@ -9,6 +9,7 @@
 (************************************************************************)
 
 open Rocqutils
+open Rocqpretyping
 
 (* diff options *)
 

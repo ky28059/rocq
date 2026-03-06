@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqpretyping
+
 val find_mutually_recursive_statements
   :  Evd.evar_map
   -> EConstr.rel_context list

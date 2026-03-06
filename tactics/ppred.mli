@@ -1,4 +1,5 @@
 open Rocqutils
+open Rocqpretyping
 open Genredexpr
 
 val pr_with_occurrences :

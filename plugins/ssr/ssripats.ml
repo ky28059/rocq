@@ -11,6 +11,7 @@
 open Ssrmatching_plugin
 
 open Rocqutils
+open Rocqpretyping
 open Util
 open Names
 open Constr

@@ -9,6 +9,7 @@
 (************************************************************************)
 
 open Rocqutils
+open Rocqpretyping
 open Names
 open Tac2dyn
 open Tac2qexpr

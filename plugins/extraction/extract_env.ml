@@ -9,6 +9,7 @@
 (************************************************************************)
 
 open Rocqutils
+open Rocqpretyping
 open Miniml
 open Constr
 open Declarations

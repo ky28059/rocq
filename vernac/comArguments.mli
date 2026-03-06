@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqpretyping
+
 val vernac_arguments
   : section_local:bool
   -> Libnames.qualid Constrexpr.or_by_notation

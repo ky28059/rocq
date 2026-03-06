@@ -10,6 +10,8 @@
 
 (* This file is (C) Copyright 2006-2015 Microsoft Corporation and Inria. *)
 
+open Rocqpretyping
+
 val wit_ssrhintref :
   (Constrexpr.constr_expr, Genintern.glob_constr_and_expr,
    EConstr.constr)

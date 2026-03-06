@@ -10,6 +10,7 @@
 
 {
 
+open Rocqpretyping
 open Ltac_plugin
 open Cctac
 open Stdarg

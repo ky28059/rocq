@@ -9,6 +9,7 @@
 (************************************************************************)
 
 open Rocqutils
+open Rocqpretyping
 open Vernacexpr
 
 (** Mapping of grammar productions to camlp5 actions. *)

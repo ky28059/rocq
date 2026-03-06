@@ -9,6 +9,7 @@
 (************************************************************************)
 
 open Rocqutils
+open Rocqpretyping
 open Ltac_plugin
 open CErrors
 open Util

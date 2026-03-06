@@ -12,6 +12,7 @@
 
 {
 
+open Rocqpretyping
 open Ltac_plugin
 open Procq.Constr
 open Ssrmatching

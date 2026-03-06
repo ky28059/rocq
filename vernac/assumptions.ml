@@ -17,6 +17,7 @@
    Module-traversing code: Pierre Letouzey *)
 
 open Rocqutils
+open Rocqpretyping
 open Util
 open Names
 open Declarations

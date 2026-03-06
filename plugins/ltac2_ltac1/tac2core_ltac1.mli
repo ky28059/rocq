@@ -9,6 +9,7 @@
 (************************************************************************)
 
 open Rocqutils
+open Rocqpretyping
 open Names
 open Genarg
 open Ltac2_plugin.Tac2expr

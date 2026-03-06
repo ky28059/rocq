@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqpretyping
+
 (** Entry keys for constr notations *)
 
 type production_position =

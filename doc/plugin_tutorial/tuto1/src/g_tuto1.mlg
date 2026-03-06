@@ -4,13 +4,15 @@ DECLARE PLUGIN "rocq-plugin-tutorial.tuto1"
 
 {
 
+open Rocqutils
+open Rocqpretyping
+
 (* If we forget this line and include our own tactic definition using
   TACTIC EXTEND, as below, then we get the strange error message
   no implementation available for Tacentries, only when compiling
   theories/Loader.v
 *)
 open Ltac_plugin
-open Rocqutils
 open Pp
 (* This module defines the types of arguments to be used in the
    EXTEND directives below, for example the string one. *)

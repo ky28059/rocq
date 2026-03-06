@@ -12,6 +12,7 @@
    decidable equality, created by Vincent Siles, Oct 2007 *)
 
 open Rocqutils
+open Rocqpretyping
 open Util
 open Constr
 open Vars

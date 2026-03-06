@@ -62,6 +62,7 @@ DECLARE PLUGIN "rocq-plugin-tutorial.tuto2"
   (*** Dependencies from Coq ***)
 
   open Rocqutils
+  open Rocqpretyping
 
   (*
    * This lets us take non-terminal arguments to a command (for example,

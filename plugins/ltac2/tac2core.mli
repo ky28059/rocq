@@ -9,6 +9,7 @@
 (************************************************************************)
 
 open Rocqutils
+open Rocqpretyping
 open Names
 
 val throw : ?info:Exninfo.info -> exn -> 'a Proofview.tactic

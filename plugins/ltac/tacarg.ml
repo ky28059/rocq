@@ -10,6 +10,7 @@
 
 (** Generic arguments based on Ltac. *)
 
+open Rocqpretyping
 open Genarg
 open Geninterp
 open Tacexpr

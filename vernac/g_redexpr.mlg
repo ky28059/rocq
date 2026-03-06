@@ -17,6 +17,7 @@ open Procq.Constr
 open Pvernac.Vernac_
 
 open Rocqutils
+open Rocqpretyping
 open Util
 open Locus
 open Genredexpr

@@ -9,6 +9,7 @@
 (************************************************************************)
 
 open Rocqutils
+open Rocqpretyping
 
 val wit_firstorder_using :
   (Libnames.qualid list, Names.GlobRef.t Loc.located Locus.or_var list,

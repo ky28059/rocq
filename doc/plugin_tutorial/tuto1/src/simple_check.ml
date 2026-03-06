@@ -1,3 +1,5 @@
+open Rocqpretyping
+
 let simple_check1 env sigma evalue =
 (* This version should be preferred if you want to really
   verify that the input is well-typed,

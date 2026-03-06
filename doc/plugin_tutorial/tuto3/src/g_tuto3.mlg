@@ -7,6 +7,7 @@ DECLARE PLUGIN "rocq-plugin-tutorial.tuto3"
 open Ltac_plugin
 
 open Rocqutils
+open Rocqpretyping
 open Construction_game
 
 (* This one is necessary, to avoid message about missing wit_string *)

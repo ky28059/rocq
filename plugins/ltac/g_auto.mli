@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqpretyping
+
 val wit_hintbases :
   (string list option, string list option, string list option)
   Genarg.genarg_type

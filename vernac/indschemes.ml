@@ -17,6 +17,7 @@
    declaring new schemes *)
 
 open Rocqutils
+open Rocqpretyping
 open Pp
 open Names
 open Util

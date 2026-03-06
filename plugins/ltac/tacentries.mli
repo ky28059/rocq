@@ -11,6 +11,7 @@
 (** Ltac toplevel command entries. *)
 
 open Rocqutils
+open Rocqpretyping
 open Vernacexpr
 open Tacexpr
 

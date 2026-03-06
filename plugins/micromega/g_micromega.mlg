@@ -18,6 +18,7 @@
 
 {
 
+open Rocqpretyping
 open Ltac_plugin
 open Stdarg
 open Tacarg

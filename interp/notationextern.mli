@@ -11,6 +11,7 @@
 (** Declaration of uninterpretation functions (i.e. printing rules)
     for notations *)
 
+open Rocqpretyping
 open Names
 open Constrexpr
 open Glob_term

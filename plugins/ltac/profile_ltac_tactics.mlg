@@ -12,6 +12,7 @@
 
 (** Ltac profiling entrypoints *)
 
+open Rocqpretyping
 open Profile_tactic
 open Stdarg
 

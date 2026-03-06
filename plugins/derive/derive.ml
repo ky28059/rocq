@@ -9,6 +9,7 @@
 (************************************************************************)
 
 open Rocqutils
+open Rocqpretyping
 open Context.Named.Declaration
 open Vernacentries.DefAttributes
 open Constrexpr

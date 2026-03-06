@@ -11,6 +11,7 @@
 (** Ltac parsing entries *)
 
 open Rocqutils
+open Rocqpretyping
 open Procq
 open Libnames
 open Constrexpr

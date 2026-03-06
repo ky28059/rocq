@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqpretyping
+
 type constr_expr_with_bindings =
     Constrexpr.constr_expr Tactypes.with_bindings
 

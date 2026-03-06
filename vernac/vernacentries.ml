@@ -11,6 +11,7 @@
 (* Concrete syntax of the mathematical vernacular MV V2.6 *)
 
 open Rocqutils
+open Rocqpretyping
 open Pp
 open CErrors
 open CAst

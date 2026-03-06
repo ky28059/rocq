@@ -12,6 +12,7 @@
 (** This file extends Matching with the main logic for Ltac's
     (lazy)match and (lazy)match goal. *)
 
+open Rocqpretyping
 
 (** [t] is the type of matching successes. It ultimately contains a
     {!Tacexpr.glob_tactic_expr} representing the left-hand side of the

@@ -11,6 +11,7 @@
 (* Printers for the ocaml toplevel. *)
 
 open Rocqutils
+open Rocqpretyping
 open Sorts
 open Util
 open Pp

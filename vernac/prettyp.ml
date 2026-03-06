@@ -13,6 +13,7 @@
    implementation of abstraction of pretty-printing of objects. *)
 
 open Rocqutils
+open Rocqpretyping
 open Pp
 open CErrors
 open Util

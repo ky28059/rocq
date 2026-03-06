@@ -12,6 +12,7 @@
     in the proof engine. This API is legacy. *)
 
 open Rocqutils
+open Rocqpretyping
 open Constr
 open Environ
 open Evd

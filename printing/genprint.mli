@@ -11,6 +11,7 @@
 (** Entry point for generic printers *)
 
 open Rocqutils
+open Rocqpretyping
 open Genarg
 
 type 'a with_level =

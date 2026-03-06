@@ -9,6 +9,7 @@
 (************************************************************************)
 
 open Rocqutils
+open Rocqpretyping
 
 (** Printers for the OCaml toplevel. *)
 

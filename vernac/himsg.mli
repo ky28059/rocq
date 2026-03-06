@@ -9,6 +9,7 @@
 (************************************************************************)
 
 open Rocqutils
+open Rocqpretyping
 
 (** This module provides functions to explain the type errors. *)
 

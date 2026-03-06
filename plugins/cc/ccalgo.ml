@@ -13,6 +13,7 @@
 (* Plus some e-matching and constructor handling by P. Corbineau *)
 
 open Rocqutils
+open Rocqpretyping
 open CErrors
 open Pp
 open Names

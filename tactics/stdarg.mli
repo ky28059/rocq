@@ -11,6 +11,7 @@
 (** Basic generic arguments. *)
 
 open Rocqutils
+open Rocqpretyping
 open Loc
 open Names
 open EConstr

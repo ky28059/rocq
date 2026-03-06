@@ -11,6 +11,7 @@
 (** Reduction expressions *)
 
 open Rocqutils
+open Rocqpretyping
 
 (** The parsing produces initially a list of [red_atom] *)
 

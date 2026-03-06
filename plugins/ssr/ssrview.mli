@@ -8,6 +8,7 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqpretyping
 open Ssrast
 
 (* Adaptor DB (Hint View) *)

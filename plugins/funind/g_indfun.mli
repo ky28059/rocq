@@ -9,6 +9,7 @@
 (************************************************************************)
 
 open Rocqutils
+open Rocqpretyping
 
 val wit_fun_ind_using :
   (Constrexpr.constr_expr Tactypes.with_bindings option,

@@ -8,8 +8,9 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
-module CVars = Vars
 open Rocqutils
+open Rocqpretyping
+module CVars = Vars
 open Constr
 open Context
 open EConstr

@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqpretyping
+
 val wit_debug : (bool, bool, bool) Genarg.genarg_type
 
 val debug : bool Procq.Entry.t

@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqpretyping
+
 val wit_withtac : Gentactic.raw_generic_tactic option Genarg.vernac_genarg_type
 
 val withtac : Gentactic.raw_generic_tactic option Procq.Entry.t

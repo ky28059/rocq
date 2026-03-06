@@ -8,6 +8,8 @@
 (*         *     (see LICENSE file for the text of the license)         *)
 (************************************************************************)
 
+open Rocqpretyping
+
 val wit_ring_mod :
   Constrexpr.constr_expr Ring_ast.ring_mod Genarg.vernac_genarg_type
 

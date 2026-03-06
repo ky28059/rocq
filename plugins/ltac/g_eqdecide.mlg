@@ -16,6 +16,7 @@
 
 {
 
+open Rocqpretyping
 open Eqdecide
 open Stdarg
 

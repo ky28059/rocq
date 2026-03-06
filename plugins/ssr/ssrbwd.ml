@@ -11,6 +11,7 @@
 (* This file is (C) Copyright 2006-2015 Microsoft Corporation and Inria. *)
 
 open Rocqutils
+open Rocqpretyping
 open Printer
 open Pretyping
 open Glob_term

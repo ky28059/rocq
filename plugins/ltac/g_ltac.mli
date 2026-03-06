@@ -9,6 +9,7 @@
 (************************************************************************)
 
 open Rocqutils
+open Rocqpretyping
 
 val genarg_of_unit : unit -> Genarg.rlevel Genarg.generic_argument
 

@@ -12,6 +12,7 @@
     (lazy)match and (lazy)match goal. *)
 
 open Rocqutils
+open Rocqpretyping
 open Names
 open Context
 open Tacexpr

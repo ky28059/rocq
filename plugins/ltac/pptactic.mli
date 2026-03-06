@@ -12,6 +12,7 @@
     objects and their subcomponents. *)
 
 open Rocqutils
+open Rocqpretyping
 open Genarg
 open Geninterp
 open Names

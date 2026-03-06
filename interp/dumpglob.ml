@@ -9,6 +9,7 @@
 (************************************************************************)
 
 open Rocqutils
+open Rocqpretyping
 open Util
 
 (* Dump of globalization (to be used by coqdoc) *)

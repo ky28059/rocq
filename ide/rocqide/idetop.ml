@@ -9,6 +9,7 @@
 (************************************************************************)
 
 open Rocqutils
+open Rocqpretyping
 open Vernacexpr
 open Vernacprop
 open CErrors

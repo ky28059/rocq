@@ -11,6 +11,7 @@
 (* Interpretation of search commands *)
 
 open Rocqutils
+open Rocqpretyping
 open CErrors
 open Names
 open Util

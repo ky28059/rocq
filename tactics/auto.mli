@@ -10,6 +10,7 @@
 
 (** This files implements auto and related automation tactics *)
 
+open Rocqpretyping
 open Names
 open EConstr
 open Pattern

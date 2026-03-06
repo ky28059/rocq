@@ -10,6 +10,7 @@
 
 (* (c) Copyright 2006-2015 Microsoft Corporation and Inria.             *)
 
+open Rocqpretyping
 open Genarg
 open Ssrmatching
 

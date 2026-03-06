@@ -14,6 +14,7 @@
 (** The default pretty-printers produce pretty-printing commands ({!Pp.t}). *)
 
 open Rocqutils
+open Rocqpretyping
 open Libnames
 open Constrexpr
 open Names

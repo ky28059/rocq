@@ -13,6 +13,7 @@
 {
 
 open Rocqutils
+open Rocqpretyping
 open Names
 open Locus
 open Constrexpr

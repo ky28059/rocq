@@ -9,6 +9,7 @@
 (************************************************************************)
 
 open Rocqutils
+open Rocqpretyping
 
 val test_lpar_idnum_coloneq : unit Procq.Entry.t
 

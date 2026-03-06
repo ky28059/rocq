@@ -11,6 +11,7 @@
 (** This files implements the autorewrite tactic. *)
 
 open Rocqutils
+open Rocqpretyping
 open Constr
 open Equality
 

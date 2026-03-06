@@ -1,3 +1,4 @@
+open Rocqpretyping
 
 open Ltac_plugin
 

@@ -11,6 +11,7 @@
 (** Interpretation layer of redexprs such as hnf, cbv, etc. *)
 
 open Rocqutils
+open Rocqpretyping
 open Constr
 open EConstr
 open Pattern

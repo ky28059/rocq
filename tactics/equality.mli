@@ -10,6 +10,7 @@
 
 (*i*)
 open Rocqutils
+open Rocqpretyping
 open Names
 open EConstr
 open Ind_tables

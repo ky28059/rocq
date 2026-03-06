@@ -10,6 +10,9 @@
 
 {
 
+open Rocqutils
+open Rocqpretyping
+
 open Procq.Prim
 
 }
@@ -20,7 +23,6 @@ DECLARE PLUGIN "rocq-runtime.plugins.extraction"
 
 (* ML names *)
 
-open Rocqutils
 open Stdarg
 open Pp
 open Names
